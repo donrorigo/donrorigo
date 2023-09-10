@@ -8,9 +8,11 @@ I specialize in the following technologies:
 
 - ![Java](https://img.shields.io/badge/Java-Expert-orange?logo=java)
 - ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-Expert-orange?logo=spring)
-- ![AWS](https://img.shields.io/badge/AWS-Experienced-brightgreen?logo=amazonaws)
-- ![gRPC](https://img.shields.io/badge/gRPC-Experienced-brightgreen?logo=grpc)
-- ![Kafka](https://img.shields.io/badge/Kafka-Experienced-brightgreen?logo=apachekafka)
+- ![AWS](https://img.shields.io/badge/AWS-Experienced-green?logo=amazonaws)
+- ![gRPC](https://img.shields.io/badge/gRPC-Experienced-green?logo=grpc)
+- ![Kafka](https://img.shields.io/badge/Kafka-Experienced-green?logo=apachekafka)
+- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Experienced-green?logo=postgresql)
+- ![MongoDB](https://img.shields.io/badge/MongoDB-Experienced-green?logo=mongodb)
 - ![Bun.js](https://img.shields.io/badge/Bun.js-Learner-blue?logo=bun)
 - ![TypeScript](https://img.shields.io/badge/TypeScript-Learner-blue?logo=typescript)
 
