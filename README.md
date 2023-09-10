@@ -14,7 +14,6 @@ I specialize in the following technologies:
 - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Experienced-green?logo=postgresql)
 - ![MongoDB](https://img.shields.io/badge/MongoDB-Experienced-green?logo=mongodb)
 - ![Docker](https://img.shields.io/badge/Docker-Experienced-green?logo=docker)
-- ![Testcontainers](https://img.shields.io/badge/Testcontainers-Experienced-green?logo=testcontainers)
 - ![Bun.js](https://img.shields.io/badge/Bun.js-Learner-blue?logo=bun)
 - ![TypeScript](https://img.shields.io/badge/TypeScript-Learner-blue?logo=typescript)
 
