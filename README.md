@@ -11,6 +11,8 @@ I specialize in the following technologies:
 - ![AWS](https://img.shields.io/badge/AWS-Experienced-yellow?logo=amazonaws)
 - ![gRPC](https://img.shields.io/badge/gRPC-Experienced-brightgreen?logo=grpc)
 - ![Kafka](https://img.shields.io/badge/Kafka-Experienced-blue?logo=apachekafka)
+- ![Bun.js](https://img.shields.io/badge/Bun.js-Learner-orange?logo=bun)
+- ![TypeScript](https://img.shields.io/badge/TypeScript-Learner-blue?logo=typescript)
 
 I have experience in both synchronous and asynchronous communication with Kafka and am actively pursuing roles in software architecture and staff engineering while continuing to enjoy coding.
 
