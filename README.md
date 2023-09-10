@@ -7,11 +7,11 @@ Hello, I'm Roro, a passionate software developer with a love for problem-solving
 I specialize in the following technologies:
 
 - ![Java](https://img.shields.io/badge/Java-Expert-orange?logo=java)
-- ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-Expert-green?logo=spring)
-- ![AWS](https://img.shields.io/badge/AWS-Experienced-yellow?logo=amazonaws)
+- ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-Expert-orange?logo=spring)
+- ![AWS](https://img.shields.io/badge/AWS-Experienced-brightgreen?logo=amazonaws)
 - ![gRPC](https://img.shields.io/badge/gRPC-Experienced-brightgreen?logo=grpc)
-- ![Kafka](https://img.shields.io/badge/Kafka-Experienced-blue?logo=apachekafka)
-- ![Bun.js](https://img.shields.io/badge/Bun.js-Learner-orange?logo=bun)
+- ![Kafka](https://img.shields.io/badge/Kafka-Experienced-brightgreen?logo=apachekafka)
+- ![Bun.js](https://img.shields.io/badge/Bun.js-Learner-blue?logo=bun)
 - ![TypeScript](https://img.shields.io/badge/TypeScript-Learner-blue?logo=typescript)
 
 I have experience in both synchronous and asynchronous communication with Kafka and am actively pursuing roles in software architecture and staff engineering while continuing to enjoy coding.
