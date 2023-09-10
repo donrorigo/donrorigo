@@ -25,4 +25,5 @@ Here's a snapshot of my GitHub activity:
 Feel free to connect with me on social media:
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rodrigo%20Puerto-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/rodrigopuerto)
-- Email: ropuertop@gmail.com
+- [![Email](https://img.shields.io/badge/Email-ropuertop%40gmail.com-blue?logo=gmail&style=flat-square)](mailto:ropuertop@gmail.com)
+
