@@ -1,6 +1,6 @@
 ## About Me
 
-Hello, I'm Roro, a passionate software developer with a love for problem-solving and open-source contributions. I have a background in fintech and insurtech companies working with Java/Spring as main stack, but I'm always excited to explore new technologies and share my knowledge with the community.
+Hello, I'm Roro, a passionate software developer with a love for problem-solving and open-source contributions. I have a background in fintech and insurtech companies working with Java/Spring as main stack (always their latest versions), but I'm always excited to explore new technologies and share my knowledge with the community.
 
 ## Technologies
 
